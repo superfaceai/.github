@@ -8,6 +8,8 @@
 [![NPM](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsuperfaceai)](https://twitter.com/superfaceai)
 
 
+API integrations take forever to build. They’re brittle and hard to test. APIs can change on you without notice and break your integrations. Superface is trying to change this. If your Node.js app depends on multiple API integrations Superface is right tool for you!
+
 **Superface is a language and protocol for abstracting integrations to application use cases. It allows use case discovery and distribution of integration code at runtime.
 This approach gives you a framework to decouple lifecycle of your application and integrations it uses**
 
