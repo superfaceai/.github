@@ -20,13 +20,12 @@ This approach gives you a framework to decouple lifecycle of your application an
 ## Technology behind
 
 <!-- One or two sentences then leading to superface.ai -->
-
-You can read about our technology [here](https://superface.ai). For more details about Superface visit [how it works](https://superface.ai/how-it-works), [get started](https://superface.ai/docs/getting-started) or complete [documentation](https://superface.ai/docs).
+Superface technology consists of two parts: Registry which allows use case discovery and distribution of integration code at runtime and Client executing the integration code in your application. You can read more about our technology [here](https://superface.ai). For more details about Superface visit [how it works](https://superface.ai/how-it-works), [get started](https://superface.ai/docs/getting-started) or complete [documentation](https://superface.ai/docs).
 
 ## Get started
 <!-- Par vet jak zacit, ze ted mame implementaci jenv JS/Ts a ze hlavni je OneSDK a odkazat tam -->
 
-Superface technology can be implemented in any language, currently we provide reference Implementation for Node.js in JavaScript or TypeScript. You can start playing with our [reference implemetation](https://github.com/superfaceai/one-sdk-js).
+Superface technology can be implemented in any language, currently we provide reference Implementation for Node.js in JavaScript or TypeScript. You can start with our [reference implemetation](https://github.com/superfaceai/one-sdk-js).
 
 <!-- TODO: url to main -->
 <img src="https://github.com/superfaceai/.github/tree/feat/navigation-page/images/sharks.png" alt="superface sharks" width="150" height="150">
