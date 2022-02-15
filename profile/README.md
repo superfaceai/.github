@@ -16,13 +16,11 @@ Our motivation behind Superface is nicely described in this [video](https://www.
 
 ## Technology behind
 
-<!-- One or two sentences then leading to superface.ai -->
-Superface technology consists of two parts: Registry which allows use case discovery and distribution of integration code at runtime and Client executing the integration code in your application. You can read more about our technology [on Superface site](https://superface.ai) or to complete [documentation](https://superface.ai/docs).
+Superface technology consists of two parts Registry which allows use case discovery and distribution of integration code at runtime and Client executing the integration code in your application. You can read more about the technology [on Superface site](https://superface.ai) or check [documentation](https://superface.ai/docs).
 
 ## Get started
-<!-- Par vet jak zacit, ze ted mame implementaci jenv JS/Ts a ze hlavni je OneSDK a odkazat tam -->
 
-Superface technology can be implemented in any language, currently we provide reference Implementation for Node.js in JavaScript or TypeScript. You can start with our [reference implemetation](https://github.com/superfaceai/one-sdk-js).
+Superface technology can be implemented in any language, currently we provide reference implementation for Node.js. For more details check [OneSDK repository](https://github.com/superfaceai/one-sdk-js).
 
 <!-- TODO: url to main -->
 <img src="https://github.com/superfaceai/.github/tree/feat/navigation-page/images/sharks.png" alt="superface sharks" width="150" height="150">
