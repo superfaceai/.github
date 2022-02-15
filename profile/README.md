@@ -17,7 +17,7 @@ Our motivation behind Superface is nicely described in this [video](https://www.
 ## Technology behind
 
 <!-- One or two sentences then leading to superface.ai -->
-Superface technology consists of two parts: Registry which allows use case discovery and distribution of integration code at runtime and Client executing the integration code in your application. You can read more about our technology [here](https://superface.ai). For more details about Superface visit [how it works](https://superface.ai/how-it-works), [get started](https://superface.ai/docs/getting-started) or complete [documentation](https://superface.ai/docs).
+Superface technology consists of two parts: Registry which allows use case discovery and distribution of integration code at runtime and Client executing the integration code in your application. You can read more about our technology [on Superface site](https://superface.ai) or to complete [documentation](https://superface.ai/docs).
 
 ## Get started
 <!-- Par vet jak zacit, ze ted mame implementaci jenv JS/Ts a ze hlavni je OneSDK a odkazat tam -->
