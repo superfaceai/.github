@@ -1,26 +1,32 @@
-
 _API Integrations the right way_
 
 [![Discord](https://img.shields.io/discord/819563244418105354?logo=discord&logoColor=fff)](https://sfc.is/discord)
 [![NPM](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsuperfaceai)](https://twitter.com/superfaceai)
 
-# Welcome to Superface
+## Welcome to Superface
 
-Superface is a language and protocol for abstracting integrations to application use cases. It allows use case discovery and distribution of integration code at runtime.
-This approach gives you a framework to decouple lifecycle of your application and integrations it uses.
+API integrations take forever to build. They’re brittle and hard to test. APIs can change on you without notice and break your integrations.
 
-# Problem we are up to
+Superface is trying to change this. If your Node.js app depends on multiple API integrations, Superface is right tool for you!
 
-API integrations take forever to build. They’re brittle and hard to test. APIs can change on you without notice and break your integrations. Superface is trying to change this. If your Node.js app depends on multiple API integrations Superface is right tool for you!
 Our motivation behind Superface is nicely described in this [video](https://www.youtube.com/watch?v=BCvq3NXFb94) from APIdays conference.
 
-## Technology behind
+## How it works
 
-Superface technology consists of two parts Registry which allows use case discovery and distribution of integration code at runtime and Client executing the integration code in your application. You can read more about the technology [on Superface site](https://superface.ai) or check [documentation](https://superface.ai/docs).
+Superface is a language and protocol for abstracting integrations to application use cases. It allows use case discovery and distribution of integration code at runtime.
+
+This approach gives you a framework to decouple lifecycle of your application and integrations it uses.
+
+Superface's technology consists of two parts:
+
+- **Registry** which allows use case discovery and distribution of integration code at runtime
+- **Client** executing the integration code in your application
+
+You can read more about the technology [on Superface's site](https://superface.ai) or check the [documentation](https://superface.ai/docs).
 
 ## Get started
 
-Superface technology can be implemented in any language, currently we provide reference implementation for Node.js. For more details check [OneSDK repository](https://github.com/superfaceai/one-sdk-js).
+Superface's technology can be implemented in any language, though currently we provide reference implementation for Node.js. For more details check [OneSDK repository](https://github.com/superfaceai/one-sdk-js).
 
 <!-- TODO: url to main -->
 <img src="https://github.com/superfaceai/.github/tree/feat/navigation-page/images/sharks.png" alt="superface sharks" width="150" height="150">
