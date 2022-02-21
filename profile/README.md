@@ -2,7 +2,7 @@ _Hexagonal architecture for API integrations_
 
 [![NPM](https://img.shields.io/badge/NPM-%40superfaceai-4338CA)](https://www.npmjs.com/org/superfaceai)
 [![Twitter](https://img.shields.io/badge/Twitter-%40superfaceai-4338CA)](https://twitter.com/superfaceai)
-[![Discord](https://img.shields.io/badge/Discord-%40superface.ai-4338CA)](https://sfc.is/discord)
+[![Discord](https://img.shields.io/badge/Discord-superface.ai-4338CA)](https://sfc.is/discord)
 
 ## Welcome to Superface
 
