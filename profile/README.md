@@ -29,4 +29,4 @@ You can read more about the technology [on Superface's site](https://superface.a
 Superface's technology can be implemented in any language, though currently we provide reference implementation for Node.js. For more details check [OneSDK repository](https://github.com/superfaceai/one-sdk-js).
 
 <!-- TODO: url to main -->
-<img src="https://github.com/superfaceai/.github/tree/feat/navigation-page/images/sharks.png" alt="superface sharks" width="150" height="150">
+<img src="https://github.com/superfaceai/.github/raw/feat/navigation-page/images/sharks.png" alt="superface sharks">
