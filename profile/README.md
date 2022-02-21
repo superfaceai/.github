@@ -1,4 +1,4 @@
-_API Integrations the right way_
+_Hexagonal architecture for API integrations_
 
 [![Discord](https://img.shields.io/discord/819563244418105354?logo=discord&logoColor=fff)](https://sfc.is/discord)
 [![NPM](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsuperfaceai)](https://twitter.com/superfaceai)
