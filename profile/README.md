@@ -8,25 +8,27 @@ _Hexagonal architecture for API integrations_
 
 API integrations take forever to build. They’re brittle and hard to test. APIs can change on you without notice and break your integrations.
 
-Superface is changing this. If your Node.js app depends on multiple API integrations, Superface is the right tool for you!
+Superface changes this. If your Node.js app depends on multiple API integrations, Superface is the right solution for you!
 
-Our motivation behind Superface is nicely described in this [video](https://www.youtube.com/watch?v=BCvq3NXFb94) from APIdays conference.
+The motivation behind Superface is described in [this video](https://www.youtube.com/watch?v=BCvq3NXFb94) from APIdays conference.
 
 ## How it works
 
 Superface is a language and a protocol for abstracting integrations to application use-cases. It allows use-case discovery and distribution of integration code at runtime.
 
-This approach gives you a framework to decouple lifecycle of your application and integrations it uses.
+This approach gives you a framework to decouple lifecycle of your application and integrations it uses. 
 
-Superface's technology consists of two parts:
+Superface has two parts:
 
 - **Registry** for use-case discovery and distribution of integration code at runtime
 - **Client** for executing the integration code in your application
 
-You can read more about the technology on [Superface's site](https://superface.ai) and in the [documentation](https://superface.ai/docs).
+Superface does not rely on any proxy. There is no integration middleman between your application and the APIs it uses. 
+
+You can read more about Superface on its [homepage](https://superface.ai) and in the [documentation](https://superface.ai/docs).
 
 ## Get started
 
-Superface's technology can be implemented in any language. Currently we provide reference implementation for Node.js. For more details check [OneSDK repository](https://github.com/superfaceai/one-sdk-js).
+Superface protocol can be implemented in any language. The first production-ready implementation is in Node.js. For more details check [OneSDK repository](https://github.com/superfaceai/one-sdk-js).
 
 <!-- TODO: sharkies -->
