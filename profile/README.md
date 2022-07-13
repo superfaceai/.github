@@ -1,4 +1,4 @@
-_Hexagonal architecture for API integrations_
+_A modern DSL for API integrations_
 
 [![npm packages](https://img.shields.io/badge/npm-%40superfaceai-5850ec)](https://www.npmjs.com/org/superfaceai)
 [![Twitter profile](https://img.shields.io/badge/Twitter-%40superfaceai-5850ec)](https://twitter.com/superfaceai)
