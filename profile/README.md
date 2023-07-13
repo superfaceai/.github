@@ -10,7 +10,7 @@ Integrations, generated code, and API documentation... All suck.
 
 If your app depends on multiple API integrations, Superface is the right solution for you.
 
-The motivation behind Superface is described in [this video](https://www.youtube.com/watch?v=BCvq3NXFb94) from APIdays conference.
+Want to see it in action? [Check out the Superface CLI overview video](https://youtu.be/fb9CDqkXKzk) that demonstrates using an Open API Specification to create Comlinks that can send an email with Resend.
 
 ## How it works
 
@@ -20,7 +20,7 @@ This approach gives you a framework to decouple lifecycle of your application an
 
 Superface has two parts:
 
-- **Superface CLI** for analysis and creation of Comlink profiles and maps.
+- **Superface CLI** for analysis and creation of Comlinks.
 - **[OneSDK](https://github.com/superfaceai/one-sdk)** for executing the integration code in your application.
 
 Superface does not rely on any proxy. There is no integration middleman between your application and the APIs it uses.
