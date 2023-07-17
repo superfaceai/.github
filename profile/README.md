@@ -1,34 +1,34 @@
-_A modern DSL for API integrations_
+_Let AI connect the APIs for you_
 
 [![npm packages](https://img.shields.io/badge/npm-%40superfaceai-5850ec)](https://www.npmjs.com/org/superfaceai)
 [![Twitter profile](https://img.shields.io/badge/Twitter-%40superfaceai-5850ec)](https://twitter.com/superfaceai)
 [![Discord server](https://img.shields.io/badge/Discord-superface.ai-5850ec)](https://sfc.is/discord)
 
-## Welcome to Superface
+## Superface.ai
 
-API integrations take forever to build. They’re brittle and hard to test. APIs can change on you without notice and break your integrations.
+Integrations, generated code, and API documentation... All suck.
 
-Superface changes this. If your Node.js app depends on multiple API integrations, Superface is the right solution for you!
+If your app depends on multiple API integrations, Superface is the right solution for you.
 
-The motivation behind Superface is described in [this video](https://www.youtube.com/watch?v=BCvq3NXFb94) from APIdays conference.
+Want to see it in action? [Check out the Superface CLI overview video](https://youtu.be/fb9CDqkXKzk) that demonstrates using an Open API Specification to create Comlinks that can send an email with Resend.
 
 ## How it works
 
-Superface is a language and a protocol for abstracting integrations to application use-cases. It allows use-case discovery and distribution of integration code at runtime.
+Superface handles the analysis of the documentation to create a Comlink that you can use to directly communicate with the API of your choice.
 
-This approach gives you a framework to decouple lifecycle of your application and integrations it uses. 
+This approach gives you a framework to decouple lifecycle of your application and integrations it uses.
 
 Superface has two parts:
 
-- **Registry** for use-case discovery and distribution of integration code at runtime
-- **Client** for executing the integration code in your application
+- **Superface CLI** for analysis and creation of Comlinks.
+- **[OneSDK](https://github.com/superfaceai/one-sdk)** for executing the integration code in your application.
 
-Superface does not rely on any proxy. There is no integration middleman between your application and the APIs it uses. 
+Superface does not rely on any proxy. There is no integration middleman between your application and the APIs it uses.
 
-You can read more about Superface on its [homepage](https://superface.ai) and in the [documentation](https://superface.ai/docs).
+## Get started today
 
-## Get started
+You can install the Superface CLI via Homebrew:
 
-Superface protocol can be implemented in any language. The first production-ready implementation is in Node.js. For more details check [OneSDK repository](https://github.com/superfaceai/one-sdk-js).
-
-<!-- TODO: sharkies -->
+```
+brew install superfaceai/cli/superface
+```
