@@ -2,7 +2,7 @@ _Let AI connect the APIs for you_
 
 [![npm packages](https://img.shields.io/badge/npm-%40superfaceai-5850ec)](https://www.npmjs.com/org/superfaceai)
 [![Twitter profile](https://img.shields.io/badge/Twitter-%40superfaceai-5850ec)](https://twitter.com/superfaceai)
-[![Discord server](https://img.shields.io/badge/Discord-superface.ai-5850ec)](https://sfc.is/discord)
+[![GitHub Discussions](https://img.shields.io/github/discussions/superfaceai/.github?color=5850ec)](https://github.com/orgs/superfaceai/discussions)
 
 ## Superface.ai
 
