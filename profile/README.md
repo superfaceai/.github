@@ -20,7 +20,7 @@ This approach gives you a framework to decouple lifecycle of your application an
 
 Superface has two parts:
 
-- **Superface CLI** for analysis and creation of Comlinks.
+- **[Superface CLI](https://github.com/superfaceai/cli)** for analysis and creation of Comlinks.
 - **[OneSDK](https://github.com/superfaceai/one-sdk)** for executing the integration code in your application.
 
 Superface does not rely on any proxy. There is no integration middleman between your application and the APIs it uses.
