@@ -10,13 +10,13 @@ Integrations, generated code, and API documentation... All suck.
 
 If your app depends on multiple API integrations, Superface is the right solution for you.
 
-Want to see it in action? [Check out the Superface CLI overview video](https://youtu.be/fb9CDqkXKzk) that demonstrates using an Open API Specification to create Comlinks that can send an email with Resend.
+Want to see it in action? [Check out the Superface CLI overview video](https://www.youtube.com/watch?v=anweAsYLqo8) that demonstrates using an Open API Specification to create Comlinks that can send an email with Resend.
 
 ## How it works
 
-Superface handles the analysis of the documentation to create a Comlink that you can use to directly communicate with the API of your choice.
+Superface handles the documentation analysis to create a Comlink that you can use to communicate with the API of your choice directly.
 
-This approach gives you a framework to decouple lifecycle of your application and integrations it uses.
+This approach gives you a framework to decouple the lifecycle of your application and the integrations it uses.
 
 Superface has two parts:
 
@@ -31,4 +31,9 @@ You can install the Superface CLI via Homebrew:
 
 ```
 brew install superfaceai/cli/superface
+```
+Or via NPM:
+
+```
+npm install -g @superfaceai/cli@latest
 ```
